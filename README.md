@@ -327,7 +327,7 @@ anisotropic_quantization_threshold = 0.2   # Ngưỡng quantization
 
 ---
 
-## 👨‍💻 Authors
+## 👨‍💻 Tác giả
 
 **Trần Văn Thiên kim** ([@1K-Keem](https://github.com/1K-Keem))
 **Phan Phước Thiện Quang** ([@ducklemon596](https://github.com/ducklemon596))
