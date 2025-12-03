@@ -1,7 +1,7 @@
 # 🔍 ScaNN Search Engine
 
 [![Demo](https://img.shields.io/badge/🚀_Live_Demo-Hugging_Face-yellow)](https://1kzzm-scann.hf.space/)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www. python.org/)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![HTML](https://img.shields.io/badge/HTML-58.8%25-orange)](https://github.com/1K-Keem/scaNN-Assignment)
 [![Python](https://img.shields.io/badge/Python-41.2%25-blue)](https://github.com/1K-Keem/scaNN-Assignment)
@@ -33,7 +33,7 @@
 
 ### Mục tiêu
 - ⚡ Tìm kiếm văn bản nhanh chóng với độ trễ thấp
-- 🎯 Độ chính xác cao với recall > 92%
+- 🎯 Độ chính xác cao với recall > 90%
 - 📊 So sánh hiệu năng giữa ScaNN và Brute-force
 - 🌐 Triển khai ứng dụng web thực tế
 
@@ -312,7 +312,7 @@ anisotropic_quantization_threshold = 0.2   # Ngưỡng quantization
 ### Papers & Documentation
 - 📄 [ScaNN: Efficient Vector Similarity Search](https://arxiv.org/abs/1908.10396)
 - 📖 [ScaNN GitHub Repository](https://github.com/google-research/google-research/tree/master/scann)
-- 🔬 [Google AI Blog - ScaNN](https://ai. googleblog.com/2020/07/announcing-scann-efficient-vector. html)
+- 🔬 [Google AI Blog - ScaNN](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html)
 - 📑 [ScaNN for AlloyDB Whitepaper](https://services.google.com/fh/files/misc/scann_for_alloydb_whitepaper.pdf)
 
 ### Libraries & Tools
@@ -323,7 +323,7 @@ anisotropic_quantization_threshold = 0.2   # Ngưỡng quantization
 ### Related Projects
 - [FAISS by Facebook](https://github.com/facebookresearch/faiss)
 - [Annoy by Spotify](https://github.com/spotify/annoy)
-- [HNSW by Malkov & Yashunin](https://github. com/nmslib/hnswlib)
+- [HNSW by Malkov & Yashunin](https://github.com/nmslib/hnswlib)
 
 ---
 
